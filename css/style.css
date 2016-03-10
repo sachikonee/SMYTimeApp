@@ -1,0 +1,24 @@
+/*!
+ * Customed STYLE by SMY
+ */
+body{
+	line-height: 1.5;
+    color: #cfd2da;
+    background-color: #252830;
+}
+.panel-blank{
+	background-color: transparent;
+	-webkit-box-shadow: none;
+    box-shadow: none;  
+}
+.panel-blank .panel-footer {
+    padding: 10px 15px;
+    background-color: transparent;
+    border-top: none;  
+}
+.panel-blank .form-control{
+	color: #ffffff;
+    background-color: #434857;
+    background-image: none;
+    border: 1px solid #434857;
+}
