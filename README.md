@@ -1,2 +1,2 @@
-# SMYTimeApp
+# SMYTestApp
 test hybrid app
